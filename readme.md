@@ -1,4 +1,4 @@
-# reactor_core — Information Reactor
+# reactor_core — Information Reactor (concept)
 
 The `reactor_core.py` module implements a secure, budget-friendly Information Reactor for integration with `drm_module5_improved.py`.
 The goal is to control the triggering of information reactions, manage execution costs, and support stagnation mechanisms.
@@ -97,5 +97,6 @@ Adjust these values ​​to your resources and production requirements.
 * Monitor and log metrics: budget_used, executions, throughput, avg_cost.
 
 ## License
+
 
 * Default: None; include the appropriate project license (MIT/BSD/Apache) before commercial use.
